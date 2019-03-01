@@ -5,4 +5,4 @@
 ``go build main.go -o kvc``
 
 #### Usage:
-``kvc put <key> <value>``
+``./kvc put <key> <value>``
